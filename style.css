@@ -1,0 +1,41 @@
+.bg-primary, .btn-primary {
+    background-color: #273c75 !important;
+    border-color: #273c75 !important;
+}
+
+.text-primary {
+    color: #273c75 !important;
+}
+
+.btn-primary:hover {
+    background-color: #192a56 !important;
+    border-color: #192a56 !important;
+}
+
+.bg-info, .btn-info {
+    background-color: #00a8ff !important;
+    border-color: #00a8ff !important;
+}
+
+.text-info {
+    color: #00a8ff !important;
+}
+
+.btn-info:hover {
+    background-color: #0097e6 !important;
+    border-color: #0097e6 !important;
+}
+
+.bg-success, .btn-success {
+    background-color: #4cd137 !important;
+    border-color: #4cd137 !important;
+}
+
+.text-success {
+    color: #4cd137 !important;
+}
+
+.btn-success:hover {
+    background-color: #44bd32 !important;
+    border-color: #44bd32 !important;
+}
